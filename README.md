@@ -31,20 +31,9 @@ Machine Learning Enthusiast 🦾, Also interested in Robotics and Automation stu
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Amanp16" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aman-pandey-a5600a1b9/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-### Badges
 
-<b>My GitHub Stats</b>
+### <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Amanp16"><img src="https://github-readme-stats.vercel.app/api?username=Amanp16&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Amanp16's GitHub stats" /></a>
 
 <a href="http://www.github.com/Amanp16"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanp16&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Amanp16"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Amanp16&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Amanp16/Attendance_Tracking-_System" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amanp16&repo=Attendance_Tracking-_System&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Amanp16/Flower-Classifier" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amanp16&repo=Flower-Classifier&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Amanp16/Spam_Classifier" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amanp16&repo=Spam_Classifier&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Amanp16/recsys" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amanp16&repo=recsys&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
