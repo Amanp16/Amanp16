@@ -8,7 +8,9 @@ Machine Learning Enthusiast 🦾, Also interested in Robotics and Automation stu
 *   ✉️  You can contact me at [amanpan001@gmail.com](mailto:amanpan001@gmail.com)
 *   🧠  I'm learning NLP, Computer Vision
 *   🤝  I'm open to collaborating on Projects and repos related to machine learning or binge watching a series with you🍿
-*   ⚡  I'm also a budding musician maybe you could find me somewhere under the hood.<a href="https://www.github.com/Amanp16" target="_blank" rel="noreferrer"><img
+*   ⚡  I'm also a budding musician maybe you could find me somewhere under the hood.<a href="https://www.github.com/Amanp16" target="_blank" rel="noreferrer">
+
+<img
                   src="https://img.shields.io/github/followers/Amanp16?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
 ###  Skills 
 <p align="left">
